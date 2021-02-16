@@ -19,6 +19,6 @@ function CardItem(props) {
       </li>
     </>
   );
-}
+};
 
 export default CardItem;
